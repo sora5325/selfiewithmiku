@@ -16,7 +16,7 @@ body{background-size: cover;
   color: #FFF;
   font-size: xx-large;
   border-bottom: solid 6px #627295;
-  border-radius: 3px;
+  border-radius: 5px;
 }
 .btn-square-shadow:active {
   /*ボタンを押したとき*/

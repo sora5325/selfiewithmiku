@@ -5,8 +5,7 @@ h1 {background: #dfefff;
   border: dashed 2px white;
   padding: 0.2em 0.5em;}
 
-body{background-size: cover;
-     text-align: center;}
+body{text-align: center;}
 
 .btn-square-shadow {
   display: inline-block;

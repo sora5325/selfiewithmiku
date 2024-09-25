@@ -1,11 +1,16 @@
-h1{color:#142664; font-weight:700; font-family:"ヒラギノ丸ゴ Pro","Hiragino Maru Gothic ProN","ＭＳ Ｐゴシック",sans-serif;}
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800;900&display=swap');
+
+h1{color:#142664;}
 
 h1 {background: #dfefff;
   box-shadow: 0px 0px 0px 5px #dfefff;
   border: dashed 2px white;
   padding: 0.2em 0.5em;}
 
-body{text-align: center;}
+body{text-align: center;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 700;
+    font-style: normal;}}
 
 .btn-square-shadow {
   display: inline-block;

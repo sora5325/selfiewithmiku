@@ -1,0 +1,35 @@
+header{
+    height: 60px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header h1{
+    margin:20px;
+}
+
+header nav ul{
+    display:flex;
+    gap:20px;
+}
+
+header nav ul li{
+    list-style: none;
+}
+header nav ul li a{
+    color: #054D7C;
+    text-decoration-style:wavy;
+}
+
+header nav ul li a:hover{
+    opacity: 0,6;
+    transition: 0.3s;
+}
+
+main img{
+    width: 100%;
+    height: 80vh;
+}

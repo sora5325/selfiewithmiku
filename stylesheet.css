@@ -13,6 +13,8 @@ body{text-align: center;}
   text-decoration: none;
   background: #80a9f5;/*ボタン色*/
   color: #FFF;
+  font-family: "ヒラギノ丸ゴ Pro","Hiragino Maru Gothic ProN","ＭＳ Ｐゴシック",sans-serif;
+  font-weight: bold;
   font-size: xx-large;
   border-bottom: solid 15px #627295;
   border-radius: 15px;

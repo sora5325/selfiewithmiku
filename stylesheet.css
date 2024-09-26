@@ -7,10 +7,10 @@ h1 {background: #dfefff;
   border: dashed 2px white;
   padding: 0.2em 0.5em;}
 
-body{text-align: center;
+h1, h2{text-align: center;
     font-family: "M PLUS Rounded 1c", sans-serif;
     font-weight: 700;
-    font-style: normal;}}
+    font-style: normal;}
 
 .btn-square-shadow {
   display: inline-block;
@@ -18,7 +18,7 @@ body{text-align: center;
   text-decoration: none;
   background: #80a9f5;/*ボタン色*/
   color: #FFF;
-  font-family: "ヒラギノ丸ゴ Pro","Hiragino Maru Gothic ProN","ＭＳ Ｐゴシック",sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-weight: bold;
   font-size: xx-large;
   border-bottom: solid 15px #627295;
